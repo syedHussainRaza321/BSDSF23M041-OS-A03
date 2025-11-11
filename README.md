@@ -1,7 +1,6 @@
 
 
 # 🧠 Mini UNIX Shell (C Language)  
-**Version:** Latest v6.0 — Command Chaining & Background Execution  
 
 ---
 
@@ -31,6 +30,7 @@ sudo apt install build-essential libreadline-dev
 make
 ./bin/myshell
 ```
+
 
 
 
