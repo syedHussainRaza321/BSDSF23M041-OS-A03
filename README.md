@@ -1,6 +1,6 @@
 
 
-# 🧠 Mini UNIX Shell (C Language)  
+#  Mini UNIX Shell (C Language)  
 
 ---
 
@@ -22,14 +22,8 @@ Implements command parsing, process management, I/O redirection, pipes, history,
 | 5 | I/O Redirection & Pipes | Supports `<`, `>`, `>>`, and single  | v5.0 |
 | 6 | Chaining & Background Jobs | Supports `;`, `&`, and `jobs` management | v6.0 |
 
----
 
-## 🧩 Build Instructions
-```bash
-sudo apt install build-essential libreadline-dev
-make
-./bin/myshell
-```
+
 
 
 
