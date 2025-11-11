@@ -2,7 +2,6 @@
 
 # 🧠 Mini UNIX Shell (C Language)  
 **Version:** Latest v6.0 — Command Chaining & Background Execution  
-**Student:** BSDSF23M022  
 
 ---
 
@@ -33,6 +32,5 @@ make
 ./bin/myshell
 ```
 
-#### Author : Amir Ali Asif
-#### Subject : Operating System (Fall 2025)
+
 
